@@ -30,7 +30,6 @@ Read the third chapter of the Eloquent JavaScript book.
 
 3. [Eloquent JavaScript - Functions (book)][functions]
 
-
 ### Higher-order functions
 
 Watch this video from Daniel Shiffman about higher-order functions.

@@ -19,7 +19,6 @@
   * Parameters and arguments
   * Callbacks
   * Higher-order functions
-
 * **Module 3:** *Data Structures*
   * Objects and Arrays
   * Looping and iterating
