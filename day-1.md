@@ -1,4 +1,4 @@
-# Day 1 
+# Day 1 - Values & Types
 
 > Always bet on JavaScript.
 >
@@ -8,6 +8,7 @@
 
 - [Slides](#slides)
 - [Topics](#topics)
+- [Exercises](#exercises)
 
 ## Slides
 * [Lab-1][l1]
@@ -28,19 +29,21 @@ Read about ECMAScript; the standard upon which JavaScript is based.
 
 ### Values, types and operators
 
-Do the Basic JavaScript exercises from freeCodeCamp. From _introduction to JavaScript_ to _comparisons with the logical Or Operator_.
-
-3. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
-
 Then read more in-depth about values in Eloquent JavaScript.
 
-4. [Eloquent JavaScript - Values (book)][values]
+3. [Eloquent JavaScript - Values (book)][values]
 
 ### Conventions
 
 Read everything from _General JavaScript guidelines_ to _Operators and Comparison_.
 
-5. [Mozilla Developer Network - JavaScript guide (article)][mdn]
+4. [Mozilla Developer Network - JavaScript guide (article)][mdn]
+
+## Exercises
+You can try the following exercises:
+
+* The **Basic JavaScript** exercises from freeCodeCamp. From _introduction to JavaScript_ to _comparisons with the logical Or Operator_. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
+
 
 
 [quote-author]: https://twitter.com/BrendanEich
