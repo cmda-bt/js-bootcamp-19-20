@@ -27,8 +27,8 @@
   * Scoping
   * Hoisting
 * **Module 5:** *Flow Control*
-  * Conditionals
-  * Synchronous vs. asynchronous
+  * Sync vs. Async
+  * Callbacks
   * Promises and Async/await
 
 
