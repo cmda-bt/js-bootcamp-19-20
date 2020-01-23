@@ -47,7 +47,8 @@ Read the fifth chapter of Eloquent JavaScript.
 ## Exercises
 * The **Basic JavaScript** exercises from freeCodeCamp. From _Write reusable JavaScript_ to _assignment with a Returned value_. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
 * You can try the day 1 and 2 array cardio from JavaScript 30 by Wes Bos  [JavaScrip30 Array Cardio (exercises)][cardio]
-* If you're feeling adventoures you can try the **Functional Programming** exercises from freeCodeCamp. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
+* If you're feeling adventurous you can try the **Functional Programming** exercises from freeCodeCamp. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
+* (Optional) Learn fundamental functional programming features of JavaScript in vanilla ES5 in this [Nodeschool Workshopper][nodeschool]
 
 [l2]: #
 
@@ -59,3 +60,4 @@ Read the fifth chapter of Eloquent JavaScript.
 [fun]: https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 [train]: https://www.youtube.com/watch?v=H4awPsyugS0
 [cardio]: https://www.youtube.com/watch?v=HB1ZC7czKRs
+[nodeschool]: https://github.com/timoxley/functional-javascript-workshop

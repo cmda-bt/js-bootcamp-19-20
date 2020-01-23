@@ -36,7 +36,6 @@ Do the iterating exercises from freeCodeCamp. Everything from _iterate_ to _prof
 
 ### Methods and Prototyping
 
-
 (Optional) Read the sixth chapter of the Eloquent JavaScript book.
 
 [Eloquent JavaScript - Objects (book)][object]
