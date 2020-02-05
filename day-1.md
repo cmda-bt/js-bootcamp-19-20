@@ -11,7 +11,8 @@
 - [Exercises](#exercises)
 
 ## Slides
-* [Lab-1][l1]
+* [Kick-off college][l1]
+* [Recap JavaScript][l2]
 
 ## Topics
 
@@ -61,7 +62,8 @@ You can try the following exercises:
 [inspiration-link]: http://npm.anvaka.com/#/view/2d/express
 [inspiration-author]: https://github.com/anvaka
 
-[l1]: #
+[l1]: https://docs.google.com/presentation/d/e/2PACX-1vQe-jm-MH9DOp-pfg2BuXK0qhp-WkyOLpWLoas-dVWFm75fB62C_qZhGgXiJ38172Zk4hYosMro6dcK/pub?start=false&loop=false&delayms=3000#slide=id.g76b1f1f473_0_96
+[l2]: https://docs.google.com/presentation/d/e/2PACX-1vTj7t3RyUyW3eOhkxRogD50TZChNlm3P-G2bgG0cefoFz3lgEOBdsDBlVq_53LYnJTQoGE6U_f80peC/pub?start=false&loop=false&delayms=3000
 
 [intro]: https://eloquentjavascript.net/00_intro.html
 [ecma]: https://flaviocopes.com/ecmascript/
