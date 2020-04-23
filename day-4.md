@@ -23,7 +23,7 @@ Read the except about binding and scope in third chapter of the Eloquent JavaScr
 
 Read chapter 4 from You Don't Know JS about Block Scope.
 
-2. [You Don't Know JS - Block scope (book)][scope]
+2. [You Don't Know JS - Block scope (book)][scope-book]
 
 (Optional) Watch Scope in JavaScript from HTTP203
 
@@ -56,7 +56,7 @@ Watch this video from Fun Fun Function about closures.
 [binding]: https://eloquentjavascript.net/03_functions.html#h_XqQR5FlX+8
 [closures]: https://www.youtube.com/watch?v=CQqwU2Ixu-U
 [ch5]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch5.md
-[scope]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch4.md
+[scope-book]: https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch4.md
 [mdn]: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 [nodeschool]: https://github.com/workshopper/scope-chains-closures
 [fcc]: https://www.freecodecamp.org/learn
