@@ -60,3 +60,4 @@ Watch this video from Fun Fun Function about closures.
 [mdn]: https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 [nodeschool]: https://github.com/workshopper/scope-chains-closures
 [fcc]: https://www.freecodecamp.org/learn
+[l4]: https://docs.google.com/presentation/d/1x9ze79SOCxHbnQ0O_eF0uo4YaT9nsmGKL3sFLIRm2tc/edit?usp=sharing
