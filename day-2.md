@@ -50,7 +50,7 @@ Read the fifth chapter of Eloquent JavaScript.
 * If you're feeling adventurous you can try the **Functional Programming** exercises from freeCodeCamp. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
 * (Optional) Learn fundamental functional programming features of JavaScript in vanilla ES5 in this [Nodeschool Workshopper][nodeschool]
 
-[l2]: #
+[l2]: https://docs.google.com/presentation/d/1xOjpfMFEMyM19M21_h8erLK1YaDtw1i6iZ_3nCt6bGQ/edit?usp=sharing
 
 [functions]: https://eloquentjavascript.net/03_functions.html
 [basics]: https://www.youtube.com/watch?v=wRHAitGzBrg

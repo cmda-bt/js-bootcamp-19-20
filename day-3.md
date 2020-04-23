@@ -44,7 +44,7 @@ Do the iterating exercises from freeCodeCamp. Everything from _iterate_ to _prof
 * The **Basic JavaScript** exercises from freeCodeCamp. From _Build JavaScript objects_ to _Record Collection_. [freeCodeCamp - Basic JavaScript (exercises)][fcc]
 
 [tweet]: https://twitter.com/iamdevloper/status/1187696477629571072
-[l3]: #
+[l3]: https://docs.google.com/presentation/d/1TbSsvk2_pkRmUSUz5KG6keNAzQ_T5iMPHFylnObhHpY/edit?usp=sharing
 
 [fcc]: https://www.freecodecamp.org/learn
 [arrays]: https://www.youtube.com/watch?v=VIQoUghHSxU
