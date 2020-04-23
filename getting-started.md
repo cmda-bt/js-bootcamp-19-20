@@ -26,7 +26,7 @@ Include your name, a profile picture, and a URL to your homepage.
 You’re allowed to stay anonymous online for this course by omitting sensitive
 information, but a good looking GitHub profile can help you get an internship or job later.
 
-## Respository
+## Repository
 
 We would like you to have one 'repo' for the *JavaScript bootcamp*. This makes it easier for us to find your files and grade your assignments. You are going to hand in your exercises from this bootcamp trough GitHub.
 
