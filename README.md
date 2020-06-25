@@ -1,5 +1,8 @@
 # ![js-bootcamp-19-20][banner]
 
+
+> **Note**: The JS Bootcamp has concluded for 2019/2020. Next year will be a new, changed, curriculum!
+
 ## Table of Contents
 
 *   [Synopsis](#synopsis)
